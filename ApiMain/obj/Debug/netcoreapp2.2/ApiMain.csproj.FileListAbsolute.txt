@@ -4,3 +4,11 @@ C:\Users\Action\desktop\apiproj\apimain\obj\Debug\netcoreapp2.2\ApiMain.RazorAss
 C:\Users\Action\desktop\apiproj\apimain\obj\Debug\netcoreapp2.2\ApiMain.RazorAssemblyInfo.cs
 C:\Users\Action\desktop\apiproj\apimain\obj\Debug\netcoreapp2.2\ApiMain.AssemblyInfoInputs.cache
 C:\Users\Action\desktop\apiproj\apimain\obj\Debug\netcoreapp2.2\ApiMain.AssemblyInfo.cs
+C:\Users\Action\desktop\apiproj\ApiMain\bin\Debug\netcoreapp2.2\ApiMain.deps.json
+C:\Users\Action\desktop\apiproj\ApiMain\bin\Debug\netcoreapp2.2\ApiMain.runtimeconfig.json
+C:\Users\Action\desktop\apiproj\ApiMain\bin\Debug\netcoreapp2.2\ApiMain.runtimeconfig.dev.json
+C:\Users\Action\desktop\apiproj\ApiMain\bin\Debug\netcoreapp2.2\ApiMain.dll
+C:\Users\Action\desktop\apiproj\ApiMain\bin\Debug\netcoreapp2.2\ApiMain.pdb
+C:\Users\Action\desktop\apiproj\ApiMain\obj\Debug\netcoreapp2.2\ApiMain.RazorTargetAssemblyInfo.cache
+C:\Users\Action\desktop\apiproj\ApiMain\obj\Debug\netcoreapp2.2\ApiMain.dll
+C:\Users\Action\desktop\apiproj\ApiMain\obj\Debug\netcoreapp2.2\ApiMain.pdb

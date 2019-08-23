@@ -5,7 +5,7 @@ namespace ApiMain.Models
 {
     public class ApiMainContext : IdentityDbContext
     {
-        public DbSet<State> States { get; set; }
+        public DbSet<States> States { get; set; }
         public DbSet<Park> Parks { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)

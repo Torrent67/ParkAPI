@@ -26,11 +26,10 @@ namespace ApiMain.Controllers
         [HttpPost]
         public void Post([FromBody] Park Park)
         {
-            _db.Parks.Add(park);
+            _db.Parks.Add(Park);
             var thisState = _db.States
                 .Include(state => state.Parks)
-                .FirstOrDefault(x => x.StateId == park.StateId);
-            thisState.GetAvgRating();
+                .FirstOrDefault(x => x.StateId == Park.StateId);
             _db.SaveChanges();
         }
 
@@ -45,13 +44,12 @@ namespace ApiMain.Controllers
         [HttpPut("{id}")]
         public void Put(int id, [FromBody] Park park)
         {
-            park.ReviewId = id;
+            park.ParkId = id;
             _db.Entry(park).State = EntityState.Modified;
             _db.SaveChanges();
             var thisState = _db.States
                 .Include(state => state.Parks)
                 .FirstOrDefault(x=> x.StateId == park.StateId);
-            thisState.GetAvgRating();
             _db.SaveChanges();
         }
 
@@ -65,7 +63,6 @@ namespace ApiMain.Controllers
             var thisState = _db.States
                 .Include(state => state.Parks)
                 .FirstOrDefault(x=> x.StateId == thisPark.StateId);
-            thisState.GetAvgRating();
             _db.SaveChanges();
         }
     }
