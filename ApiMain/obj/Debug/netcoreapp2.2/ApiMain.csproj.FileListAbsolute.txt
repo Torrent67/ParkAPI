@@ -1,0 +1,6 @@
+C:\Users\Action\desktop\apiproj\apimain\obj\Debug\netcoreapp2.2\ApiMain.csprojAssemblyReference.cache
+C:\Users\Action\desktop\apiproj\apimain\obj\Debug\netcoreapp2.2\ApiMain.csproj.CoreCompileInputs.cache
+C:\Users\Action\desktop\apiproj\apimain\obj\Debug\netcoreapp2.2\ApiMain.RazorAssemblyInfo.cache
+C:\Users\Action\desktop\apiproj\apimain\obj\Debug\netcoreapp2.2\ApiMain.RazorAssemblyInfo.cs
+C:\Users\Action\desktop\apiproj\apimain\obj\Debug\netcoreapp2.2\ApiMain.AssemblyInfoInputs.cache
+C:\Users\Action\desktop\apiproj\apimain\obj\Debug\netcoreapp2.2\ApiMain.AssemblyInfo.cs

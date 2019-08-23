@@ -12,7 +12,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 using Microsoft.AspNetCore.Identity;
-using TravelAPI.Models;
+using ApiMain.Models;
 
 namespace ApiMain
 {
