@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Action\\desktop\\apiproj\\ApiMain\\ApiMain.csproj": {}
+    "C:\\Users\\Action\\Desktop\\apiproj\\apimain\\ApiMain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Action\\desktop\\apiproj\\ApiMain\\ApiMain.csproj": {
+    "C:\\Users\\Action\\Desktop\\apiproj\\apimain\\ApiMain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Action\\desktop\\apiproj\\ApiMain\\ApiMain.csproj",
+        "projectUniqueName": "C:\\Users\\Action\\Desktop\\apiproj\\apimain\\ApiMain.csproj",
         "projectName": "ApiMain",
-        "projectPath": "C:\\Users\\Action\\desktop\\apiproj\\ApiMain\\ApiMain.csproj",
+        "projectPath": "C:\\Users\\Action\\Desktop\\apiproj\\apimain\\ApiMain.csproj",
         "packagesPath": "C:\\Users\\Action\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Action\\desktop\\apiproj\\ApiMain\\obj\\",
+        "outputPath": "C:\\Users\\Action\\Desktop\\apiproj\\apimain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
