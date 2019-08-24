@@ -21,9 +21,7 @@ namespace ApiMain.Models
         public string City { get; set; }
         [Required]
         public string Country { get; set; }
-        [Range(0,11)]
-        
-        
+          
         public ICollection<Park> Parks { get; set; }
 
     }

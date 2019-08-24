@@ -13,7 +13,6 @@ namespace ApiMain.Models
         public string ParkText { get; set; }
         [Required]
         public string Name { get; set; }
-        [Range(0,10)]
-        public int Rating { get; set; }
+        
     }
 }
